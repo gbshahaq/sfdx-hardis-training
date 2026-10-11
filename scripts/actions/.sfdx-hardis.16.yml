@@ -1,0 +1,9 @@
+commandsPostDeploy:
+  - id: 16285d82-7423-4412-9170-c92b59470d58
+    label: Upsert handover templates
+    type: data
+    command: ""
+    parameters:
+      sfdmuProject: handover_checklis_templates
+    runOnlyOnceByOrg: true
+    context: process-deployment-only
