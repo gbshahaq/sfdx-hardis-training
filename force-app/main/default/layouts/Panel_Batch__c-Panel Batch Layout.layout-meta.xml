@@ -28,8 +28,6 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-<<<<<<< HEAD
-=======
                 <field>Warranty_Years__c</field>
             </layoutItems>
             <layoutItems>
@@ -38,7 +36,6 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
->>>>>>> eaef15f... US-059 Record the supplier of a panel batch (#38)
                 <field>External_Id__c</field>
             </layoutItems>
         </layoutColumns>
