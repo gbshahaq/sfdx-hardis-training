@@ -1,4 +1,3 @@
 mergeTargets:
-  - preprod
 targetUsername: gbshahaq@gmail.com
 instanceUrl: https://login.salesforce.com
